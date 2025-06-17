@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some innovative ideas.
 - 📫 How to reach me --> enter your insta @ in pull request.
 - 😄 Pronouns: he/him
-- ⚡ Not So Fun fact: Just Friends.
+- ⚡ Not So Fun fact: Let me think...
 
 <!---
 krish2366/krish2366 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
