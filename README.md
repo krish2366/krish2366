@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krish2366
-- 👀 I’m interested in everything which includes fun ( Programming includes fun  ), except drugs.
-- 🌱 I’m currently learning MERN .
+- 👀 I’m interested in everything which includes fun.
+- 🌱 I’m currently learning MERN and understanding the AI industry.
 - 💞️ I’m looking to collaborate on some innovative ideas.
 - 📫 How to reach me --> enter your insta @ in pull request.
 - 😄 Pronouns: he/him
